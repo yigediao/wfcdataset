@@ -64,7 +64,7 @@ Data was collected across **12 spatial orientations** under **3 exposure levels*
 
 > The camera was physically fixed; the object was rotated to simulate different relative poses.
 
-![Dataset Overview](Figure%2011.jpeg)
+![Dataset Overview](assets/dataset_overview.jpeg)
 *Top: Schematic illustration of relative camera–object pose configurations. Bottom: Representative RGB samples under different exposure conditions and partial occlusion.*
 
 ### Lighting Conditions (3 per orientation)
@@ -95,7 +95,7 @@ All 288 samples were annotated using a **fully manual, high-precision approach**
 3. **Manual Refinement (GUI)**: The pose was refined interactively via a custom Open3D-based labeling tool, with fine-grained control over translation and rotation.
 4. **Dual-Domain Verification**: Alignment was verified in both the 3D RGB-D view and the 2D RGB projection (bounding box overlay). A pose was accepted only when tight alignment was confirmed in both domains.
 
-![Ground Truth Labeling GUI](lable_gui.jpeg)
+![Ground Truth Labeling GUI](assets/labeling_gui.jpeg)
 *Top: Inputs to the labeling tool — RGB-D point cloud, OBJ model, and RGB image. Bottom: 3D alignment GUI (left) and 2D OBB projection overlay (right) used for dual-domain verification.*
 
 ---

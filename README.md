@@ -2,6 +2,12 @@
 
 A specialized RGB-D dataset for 6D pose estimation of 2×4″ wood studs in Wood Frame Construction (WFC) scenarios.
 
+## Article
+
+The dataset is introduced in our Automation in Construction paper:
+
+[Advancing Robotic Automation in Wood-Framed Construction Using Vision-Driven Adaptive Control](https://www.sciencedirect.com/science/article/pii/S0926580526000993?via%3Dihub)
+
 ## Download
 
 The full dataset is hosted on Dropbox:
@@ -214,9 +220,6 @@ If you use this dataset in your research, please cite:
 }
 ```
 
-> DOI will be added upon publication.
-
----
 
 ## License
 

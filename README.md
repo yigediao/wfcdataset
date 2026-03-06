@@ -208,7 +208,9 @@ If you use this dataset in your research, please cite:
   author  = {Xie, Chao and Alwisy, Aladdin},
   journal = {Automation in Construction},
   year    = {2026},
-  note    = {Accepted, in press}
+  doi     = {10.1016/j.autcon.2026.106858},
+  url     = {https://doi.org/10.1016/j.autcon.2026.106858},
+  article-number = {106858}
 }
 ```
 

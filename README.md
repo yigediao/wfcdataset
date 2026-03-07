@@ -6,7 +6,7 @@ A specialized RGB-D dataset for 6D pose estimation of 2×4″ wood studs in Wood
 
 The dataset is introduced in our Automation in Construction paper:
 
-[Advancing Robotic Automation in Wood-Framed Construction Using Vision-Driven Adaptive Control](https://www.sciencedirect.com/science/article/pii/S0926580526000993?via%3Dihub)
+[Advancing Robotic Automation in Wood-Framed Construction Using Vision-Driven Adaptive Control](https://authors.elsevier.com/a/1mjSR3IhXN6wjX)
 
 ## Download
 

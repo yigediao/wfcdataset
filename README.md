@@ -12,7 +12,7 @@ The dataset is introduced in our Automation in Construction paper:
 
 The full dataset is hosted on Dropbox:
 
-[Download Dataset](https://www.dropbox.com/scl/fo/jmfefrziwmegrgcna0bkk/AB52JKwEApu1N1qLLDRmdoc?rlkey=j6tipu1tver6s8bxhu9w8drsv&e=2&st=eh75rfpw&dl=0)
+[Download Dataset](https://www.dropbox.com/scl/fo/sq9gz1vcgczdgz32mcfve/ALQKqFbNcodMnidMgmf6jEY?rlkey=4zgi8gigjuw58l20eh1qm69x8&st=7m5tszaa&dl=0)
 
 ---
 
